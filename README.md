@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java Servlet**
 
-- 💬 Ask me about **Quantum-computing, Frontend Development, Software Engineering, Core Java**
+- 💬 Ask me about ** Frontend Development, Software Engineering, Core Java**
 
 - 📫 How to reach me **sagnik2898@gmail.com**
 
