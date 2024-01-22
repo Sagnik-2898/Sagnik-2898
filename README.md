@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Sagnik Banerjee</h1>
 <h3 align="center">A passionate Java Full Stack developer From India</h3>
 
