@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sagnik2898@gmail.com**
 
-- 📄 Know about my experiences [Linkedin Profile ->](www.linkedin.com/in/sagnik2898)
+- 📄 Know about my experiences [Linkedin Profile ->](linkedin.com/in/sagnik-banerjee-738929219/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
