@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+--- ![Header](./github-header-image.png)
 
 <h3 align="center">A passionate Full Stack Web developer From India</h3>
 
