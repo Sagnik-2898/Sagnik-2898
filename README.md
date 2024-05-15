@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
-<h1 align="center">!! Welcoming all the contributors !!</h1>
-<h3 align="center">A passionate Java Full Stack developer From India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.schoolofit.co.za/wp-content/uploads/2018/06/How-to-become-a-web-developer.gif">
+<h3 align="center">A passionate Full Stack Web developer From India</h3>
 
-- 🌱 I’m currently learning **React Js**
+<img align="right" alt="Coding" width="400" src="https://strapi.dhiwise.com/uploads/Next_JS_Forms_and_Mutations_with_App_Router_OG_Image_e2f9eb6a40.webp">
 
-- 💬 Ask me about **Backend Development,Springboot,MERN**
+- 🌱 I’m currently learning **Next JS**
+
+- 💬 Ask me about **Full Stack Web Development, Next JS, MERN**
 
 - 📫 How to reach me **sagnik2898@gmail.com**
 
