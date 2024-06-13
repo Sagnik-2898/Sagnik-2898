@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [Linkedin Profile ->](linkedin.com/in/sagnik-banerjee-738929219/)
 
+-![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik03?theme=dark&font=Kiwi%20Maru&ext=heatmap)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sagnikb99952304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sagnikb99952304" height="30" width="40" /></a>
