@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next-JS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](portfolio-pers.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pers.vercel.app/)
 
 - 💬 Ask me about **MERN stack, Java**
 
