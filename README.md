@@ -1,6 +1,6 @@
 ![Header](https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Sagnik Banerjee</h1>
+<h1 align="center">𝕄𝕠𝕟𝕘𝕠--𝔼𝕩𝕡𝕣𝕖𝕤𝕤--ℝ𝕖𝕒𝕔𝕥--ℕ𝕠𝕕𝕖</h1>
 <h3 align="center">Dsa?? Dev?? contact me.... lol I dont know anything..</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
